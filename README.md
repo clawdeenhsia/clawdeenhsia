@@ -11,13 +11,3 @@ printf("Hello World\n");
 ///(3)換你做做看
 ///(4)成效評估
 ```
-
-上一次的閱讀位置
-由 9600862 的 5. 要把 CodeBlocks 的程式, 放到 GitHub 你的 2021 專案倉...
-
-9600862下午5:06
-
-由 9600862 的 連結 https://github.com/jsyeh/2021c/blob/main...
-9600862下午5:06
-https://github.com/jsyeh/2021c/blob/main/README.md
-
